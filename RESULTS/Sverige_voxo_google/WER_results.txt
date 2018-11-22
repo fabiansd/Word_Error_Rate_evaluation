@@ -1,0 +1,7 @@
+Results for: Sverige_voxo_google/. #words in solution: 1302
+WER        ACCURACY     ERRORS     #Words        FILENAME
+35.33      64.67        461       1520 		17 Oct 2018 at 11_43_42 daniel Enstrom noisy telefon.txt
+24.90      75.10        325       1305 		Anne Sofie Phone noisy.txt
+46.21      53.79        603       1262 		David quiet phone.txt
+31.42      68.58        410       1279 		Soren tyst phone.txt
+23.60      76.40        308       1302 		Stefan noisy dator.txt

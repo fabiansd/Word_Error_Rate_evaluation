@@ -1,0 +1,3 @@
+Results for: WER_data\impro\voxo. #words in solution: 398
+WER        ACCURACY     ERRORS     #Words        FILENAME
+10.47      89.53         42        398 		Svein impro PC mic voxo.txt

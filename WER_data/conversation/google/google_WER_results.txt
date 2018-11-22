@@ -1,0 +1,4 @@
+Results for: WER_data\conversation/google. #words in solution: 1226
+WER        ACCURACY     ERRORS     #Words        FILENAME
+39.58      60.42        507       1267 		Jan Magne conv PC mic google.txt
+27.87      72.13        357       1226 		Svein conv NC mic google.txt

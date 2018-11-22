@@ -1,0 +1,12 @@
+Results for: WER_data\conversation\voxo. #words in solution: 1289
+WER        ACCURACY     ERRORS     #Words        FILENAME
+43.09      56.91        552       1210 		Jan Magne conv NC mic voxo.txt
+55.58      44.42        712       1048 		Jan Magne conv NC phone voxo.txt
+40.52      59.48        519       1270 		Jan Magne conv PC mic voxo.txt
+57.30      42.70        734        926 		Jan Magne conv PC phone voxo.txt
+32.24      67.76        413       1242 		Svein conv NC jabra voxo.txt
+28.73      71.27        368       1230 		Svein conv NC mic voxo.txt
+34.97      65.03        448       1200 		Svein conv NC phone voxo.txt
+25.92      74.08        332       1278 		Svein conv PC jabra voxo.txt
+24.51      75.49        314       1290 		Svein conv PC mic voxo.txt
+27.24      72.76        349       1289 		Svein conv PC phone voxo.txt

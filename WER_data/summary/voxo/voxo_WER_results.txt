@@ -1,0 +1,12 @@
+Results for: WER_data\summary\voxo. #words in solution: 84
+WER        ACCURACY     ERRORS     #Words        FILENAME
+43.53      56.47         37         85 		Jan Magne summary NC mic voxo.txt
+51.77      48.23         44         81 		Jan Magne summary NC phone voxo.txt
+44.71      55.29         38         91 		Jan Magne summary PC mic voxo.txt
+47.06      52.94         40         94 		Jan Magne summary PC phone voxo.txt
+27.06      72.94         23         83 		Svein summary NC jabra voxo.txt
+29.41      70.59         25         84 		Svein summary NC mic voxo.txt
+36.47      63.53         31         78 		Svein summary NC phone voxo.txt
+18.82      81.18         16         84 		Svein summary PC jabra voxo.txt
+27.06      72.94         23         82 		Svein summary PC mic voxo.txt
+18.82      81.18         16         84 		Svein summary PC phone voxo.txt

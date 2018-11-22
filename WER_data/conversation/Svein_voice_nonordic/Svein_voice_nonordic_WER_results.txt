@@ -1,0 +1,8 @@
+Results for: WER_data\Svein_voice_nonordic
+WER		ACCURACY	ERRORS	FILENAME
+25.92 		 74.08 		 332.0 		 Svein_Jabra_PC_Manus_Voxo.txt
+26.7 		 73.3 		 342.0 		 Svein_Mic_PC_Manus_MaxManus.txt
+52.93 		 47.07 		 678.0 		 Svein_Mic_PC_Manus_Microsoft.txt
+44.34 		 55.66 		 568.0 		 Svein_Mic_PC_Manus_Nuance.txt
+24.51 		 75.49 		 314.0 		 Svein_Mic_PC_Manus_Voxo.txt
+27.24 		 72.76 		 349.0 		 Svein_Phone_PC_Manus_Voxo.txt

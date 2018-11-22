@@ -1,0 +1,3 @@
+Results for: WER_data\conversation\maxmanus. #words in solution: 1215
+WER        ACCURACY     ERRORS     #Words        FILENAME
+26.70      73.30        342       1215 		Svein conv PC mic maxmanus.txt

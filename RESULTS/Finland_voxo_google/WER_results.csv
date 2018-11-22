@@ -1,0 +1,50 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,25.66,74.34,282.0,1142,18 Oct 2018 at 09_51_27 Anna metsaranta noisy telefon.txt
+1,33.576,66.424,369.0,1189,18 Oct 2018 at 10_17_06 noora quiet room telefon.txt
+2,43.403,56.597,477.0,1137,18 Oct 2018 at 13_00_04_Mikko_PHONE.txt
+3,41.037,58.963,451.0,1164,18 Oct 2018 at 13_16_32_Mikael_PHONE.txt
+4,35.578,64.422,391.0,1081,18 Oct 2018 at 13_34_21_Sabina_PHONE.txt
+5,50.136,49.864,551.0,1078,18 Oct 2018 at 14_12_14_Satu_PHONE.txt
+6,41.856,58.144,460.0,1109,18 Oct 2018 at 14_26_36_Panu_PHONE.txt
+7,34.486,65.51400000000001,379.0,1131,18 Oct 2018 at 14_39_17_Salla_PHONE.txt
+8,63.057,36.943,693.0,1007,18 Oct 2018 at 15_31_44_Magnus_PHONE.txt
+9,33.667,66.333,370.0,1133,19 Oct 2018 at 15_35_43.txt
+10,35.669,64.331,392.0,1161,AnjalaQJabra.txt
+11,35.032,64.968,385.0,1146,AnjalaQMic.txt
+12,48.772,51.228,536.0,780,Anna Metsæranta Noisy finnish.txt
+13,28.389,71.611,312.0,1150,Annika Laakkonen quiet room computer.txt
+14,33.758,66.24199999999999,371.0,1132,IdaPCMic.txt
+15,50.591,49.409,556.0,1115,Magnus.txt
+16,51.774,48.226,569.0,1089,MagnusKondratjeff_MIC.txt
+17,51.137,48.863,562.0,1114,MagnusQJabra.txt
+18,38.49,61.51,423.0,1196,MikaelMäättä_MIC.txt
+19,40.309,59.691,443.0,1129,MikkoQJabra.txt
+20,37.034,62.966,407.0,1118,MikkoQMic.txt
+21,39.854,60.146,438.0,1143,MikkoRanta_MIC.txt
+22,29.299,70.701,322.0,1143,My recording 39.txt
+23,36.306,63.694,399.0,1127,My recording 41.txt
+24,27.389,72.611,301.0,1124,My recording 43.txt
+25,36.761,63.239,404.0,1166,My recording 47.txt
+26,29.754,70.246,327.0,1169,My recording 49.txt
+27,28.116,71.884,309.0,1142,My recording 51.txt
+28,50.773,49.227,558.0,1114,My recording 53.txt
+29,33.394,66.606,367.0,1171,My recording 55.txt
+30,34.213,65.787,376.0,1130,My recording 79.txt
+31,33.03,66.97,363.0,1175,Noora quiet room dator.txt
+32,33.03,66.97,363.0,1176,Noora quiet room.txt
+33,37.216,62.784,409.0,1149,PanuParri_MIC.txt
+34,32.848,67.152,361.0,1167,PanuQJabra.txt
+35,32.302,67.69800000000001,355.0,1166,PanuQMic.txt
+36,27.207,72.793,299.0,1141,SabinaMurtonen_MIC.txt
+37,28.207,71.793,310.0,1140,SabinaQJabra.txt
+38,27.025,72.975,297.0,1137,SabinaQMic.txt
+39,32.029,67.971,352.0,1154,SallaQJabra.txt
+40,27.843,72.157,306.0,1161,SallaQMic.txt
+41,28.935,71.065,318.0,1165,SallaRipatti_MIC.txt
+42,37.125,62.875,408.0,1133,SandraQJabra.txt
+43,33.03,66.97,363.0,1128,SandraQMic.txt
+44,34.941,65.059,384.0,1176,Satu Anjala_MIC.txt
+45,29.663,70.337,326.0,1143,VilleQJabra.txt
+46,28.389,71.611,312.0,1143,VilleQMic.txt
+47,29.117,70.883,320.0,1141,VilleSQJabra.txt
+48,28.844,71.156,317.0,1141,VilleSQMic.txt

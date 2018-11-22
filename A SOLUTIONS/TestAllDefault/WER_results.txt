@@ -1,0 +1,3 @@
+Results for: TestAllDefault. #words in solution: 7
+WER        ACCURACY     ERRORS     #Words        FILENAME
+0.00     100.00          0          7 		hypotese1.txt

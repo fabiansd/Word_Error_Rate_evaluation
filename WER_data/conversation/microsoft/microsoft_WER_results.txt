@@ -1,0 +1,7 @@
+Results for: WER_data\conversation\microsoft. #words in solution: 1273
+WER        ACCURACY     ERRORS     #Words        FILENAME
+69.71      30.29        893       1064 		Jan magne conv PC mic microsoft.txt
+63.93      36.07        819       1206 		Svein conv NC jabra microsoft.txt
+61.59      38.41        789       1221 		Svein conv NC mic microsoft.txt
+71.51      28.49        916       1144 		Svein conv NC phone microsoft.txt
+53.55      46.45        686       1273 		Svein conv PC mic microsoft.txt

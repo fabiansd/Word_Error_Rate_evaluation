@@ -1,0 +1,51 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,23.567,76.43299999999999,259.0,1140,18 Oct 2018 at 09_51_27 Anna metsaranta noisy telefon.wav.txt
+1,32.029,67.971,352.0,1177,18 Oct 2018 at 10_17_06 noora quiet room telefon.wav.txt
+2,41.856,58.144,460.0,1136,18 Oct 2018 at 13.00.04_Mikko.wav.txt
+3,39.308,60.692,432.0,1160,18 Oct 2018 at 13.16.32_Mikael.wav.txt
+4,33.758,66.24199999999999,371.0,1081,18 Oct 2018 at 13.34.21_Sabina.wav.txt
+5,48.59,51.41,534.0,1077,18 Oct 2018 at 14.12.14_Satu.wav.txt
+6,40.764,59.236,448.0,1110,18 Oct 2018 at 14.26.36_Panu.wav.txt
+7,32.393,67.607,356.0,1134,18 Oct 2018 at 14.39.17_Salla.wav.txt
+8,61.783,38.217,679.0,1003,18 Oct 2018 at 15.31.44_Magnus.wav.txt
+9,32.12,67.88,353.0,1124,19 Oct 2018 at 15.35.43.wav.txt
+10,95.905,4.094999999999999,1054.0,398,19 Oct 2018 at 15.47.48.wav.txt
+11,34.213,65.787,376.0,1146,AnjalaQJabra.wav.txt
+12,33.667,66.333,370.0,1138,AnjalaQMic.wav.txt
+13,47.407,52.593,521.0,778,Anna Metsæranta Noisy finnish.wav.txt
+14,26.388,73.612,290.0,1141,Annika Laakkonen quiet room computer.wav.txt
+15,31.847,68.15299999999999,350.0,1130,IdaPCMic.wav.txt
+16,48.954,51.046,538.0,1110,Magnus.wav.txt
+17,50.773,49.227,558.0,1079,MagnusKondratjeff.wav.txt
+18,49.5,50.5,544.0,1110,MagnusQJabra.wav.txt
+19,36.761,63.239,404.0,1186,MikaelMaatta.wav.txt
+20,38.035,61.965,418.0,1127,MikkoQJabra.wav.txt
+21,34.668,65.332,381.0,1116,MikkoQMic.wav.txt
+22,38.035,61.965,418.0,1133,MikkoRanta.wav.txt
+23,27.116,72.884,298.0,1142,My recording 39.wav.txt
+24,34.486,65.51400000000001,379.0,1125,My recording 41.wav.txt
+25,25.66,74.34,282.0,1124,My recording 43.wav.txt
+26,34.941,65.059,384.0,1163,My recording 47.wav.txt
+27,27.753,72.247,305.0,1171,My recording 49.wav.txt
+28,69.609,30.391000000000005,765.0,446,My recording 51.wav.txt
+29,49.045,50.955,539.0,1111,My recording 53.wav.txt
+30,31.574,68.426,347.0,1165,My recording 55.wav.txt
+31,32.393,67.607,356.0,1129,My recording 79.wav.txt
+32,31.028,68.97200000000001,341.0,1171,Noora quiet room dator.wav.txt
+33,31.028,68.97200000000001,341.0,1172,Noora quiet room.wav.txt
+34,36.033,63.967,396.0,1146,PanuParri.wav.txt
+35,31.665,68.33500000000001,348.0,1164,PanuQJabra.wav.txt
+36,31.119,68.881,342.0,1162,PanuQMic.wav.txt
+37,25.66,74.34,282.0,1137,SabinaMurtonen.wav.txt
+38,26.297,73.703,289.0,1140,SabinaQJabra.wav.txt
+39,25.114,74.886,276.0,1135,SabinaQMic.wav.txt
+40,30.209,69.791,332.0,1153,SallaQJabra.wav.txt
+41,25.569,74.431,281.0,1160,SallaQMic.wav.txt
+42,27.843,72.157,306.0,1157,SallaRipatti.wav.txt
+43,34.668,65.332,381.0,1131,SandraQJabra.wav.txt
+44,30.755,69.245,338.0,1124,SandraQMic.wav.txt
+45,33.576,66.424,369.0,1169,Satu Anjala.wav.txt
+46,27.934,72.066,307.0,1141,VilleQJabra.wav.txt
+47,26.388,73.612,290.0,1143,VilleQMic.wav.txt
+48,27.025,72.975,297.0,1137,VilleSQJabra.wav.txt
+49,26.752,73.248,294.0,1139,VilleSQMic.wav.txt

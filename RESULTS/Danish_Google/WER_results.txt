@@ -1,0 +1,54 @@
+Results for: Danish_Google/. #words in solution: 1234
+WER        ACCURACY     ERRORS     #Words        FILENAME
+50.58      49.42        652       1158 		17 Oct 2018 at 13_58_24 Andreas kiaar noisy dator.wav.txt
+46.47      53.53        599       1107 		19 Oct 2018 at 12.07.23.wav.txt
+38.09      61.91        491       1245 		19 Oct 2018 at 12.25.43.wav.txt
+36.62      63.38        472       1243 		19 Oct 2018 at 12.38.21.wav.txt
+42.59      57.41        549       1244 		19 Oct 2018 at 13.16.42.wav.txt
+52.68      47.32        679       1139 		19 Oct 2018 at 13.37.14.wav.txt
+36.23      63.77        467       1304 		19 Oct 2018 at 16.05.21.wav.txt
+45.93      54.07        592       1224 		Andreas kiar DK noisy dator.wav.txt
+44.45      55.55        573       1255 		AndreasQMic.wav.txt
+31.96      68.04        412       1226 		AshtiQJabra.wav.txt
+27.31      72.69        352       1295 		AshtiQMic.wav.txt
+25.99      74.01        335       1310 		BrianQJabra.wav.txt
+26.22      73.78        338       1312 		BrianQMic.wav.txt
+37.86      62.14        488       1248 		ClausNJabra.wav.txt
+34.29      65.71        442       1281 		ClausNMic.wav.txt
+35.61      64.39        459       1253 		ClausQJabra.wav.txt
+33.36      66.64        430       1300 		ClausQMic.wav.txt
+22.65      77.35        292       1294 		EsbenQMic.wav.txt
+24.75      75.25        319       1291 		EspenQJabra.wav.txt
+35.76      64.24        461       1301 		FrankSilentMic.wav.txt
+48.56      51.44        626       1231 		HenrikNoiseMic.wav.txt
+45.38      54.62        585       1222 		HenrikQJabra.wav.txt
+43.76      56.24        564       1252 		HenrikQMic.wav.txt
+34.99      65.01        451       1285 		JesperNoiseMic.wav.txt
+30.64      69.36        395       1333 		JesperQJabra.wav.txt
+28.39      71.61        366       1363 		JesperQMic.wav.txt
+61.52      38.48        793        833 		LindaNJabra.wav.txt
+29.17      70.83        376       1292 		LindaNMic.wav.txt
+44.53      55.47        574       1125 		LindaQJabra.wav.txt
+35.14      64.86        453       1238 		LindaQMic.wav.txt
+41.20      58.80        531       1177 		MortenNoiseMic.wav.txt
+46.62      53.38        601       1103 		MortenQJabra.wav.txt
+40.96      59.04        528       1176 		MortenQMic.wav.txt
+48.80      51.20        629       1177 		My recording 33.wav.txt
+35.14      64.86        453       1269 		My recording 57.wav.txt
+36.31      63.69        468       1234 		My recording 59.wav.txt
+31.19      68.81        402       1269 		My recording 60.wav.txt
+37.55      62.45        484       1188 		My recording 61.wav.txt
+29.09      70.91        375       1350 		My recording 63.wav.txt
+44.45      55.55        573       1118 		My recording 65.wav.txt
+40.73      59.27        525       1194 		My recording 67.wav.txt
+44.30      55.70        571       1235 		My recording 68.wav.txt
+35.92      64.08        463       1296 		My recording 70.wav.txt
+28.78      71.22        371       1279 		My recording 72.wav.txt
+25.06      74.94        323       1310 		My recording 75.wav.txt
+22.73      77.27        293       1279 		My recording 77.wav.txt
+39.26      60.74        506       1268 		PelleNoiseMic.wav.txt
+39.95      60.05        515       1270 		PelleQJabra.wav.txt
+36.93      63.07        476       1307 		PelleQMic.wav.txt
+32.89      67.11        424       1256 		RikkeNoiseMic.wav.txt
+46.01      53.99        593       1110 		RikkeQJabra.wav.txt
+37.01      62.99        477       1234 		RikkeQMic.wav.txt

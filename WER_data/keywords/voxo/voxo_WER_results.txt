@@ -1,0 +1,12 @@
+Results for: WER_data\keywords\voxo. #words in solution: 156
+WER        ACCURACY     ERRORS     #Words        FILENAME
+51.08      48.92         71        160 		Jan Magne keyword NC mic voxo.txt
+58.99      41.01         82        134 		Jan Magne keyword NC phone voxo.txt
+53.24      46.76         74        163 		Jan Magne keyword PC mic voxo.txt
+54.68      45.32         76        160 		Jan Magne keyword PC phone voxo.txt
+43.88      56.12         61        156 		Svein keyword NC jabra voxo.txt
+40.29      59.71         56        154 		Svein keyword NC mic voxo.txt
+48.20      51.80         67        154 		Svein keyword NC phone voxo.txt
+38.85      61.15         54        150 		Svein keyword PC jabra voxo.txt
+43.88      56.12         61        151 		Svein keyword PC mic voxo.txt
+41.01      58.99         57        156 		Svein keyword PC phone voxo.txt

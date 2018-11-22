@@ -1,0 +1,3 @@
+Results for: tilFabian_011118_Finland/. #words in solution: 1091
+WER        ACCURACY     ERRORS     #Words        FILENAME
+22.84      77.16        251       1091 		My recording 51.txt

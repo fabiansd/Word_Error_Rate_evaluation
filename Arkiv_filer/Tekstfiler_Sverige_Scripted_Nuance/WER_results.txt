@@ -1,0 +1,29 @@
+Results for: Tekstfiler_Sverige_Scripted_Nuance/. #words in solution: 1263 
+WER        ACCURACY     ERRORS     #Words        FILENAME
+50.27      49.73        656       1253 		AndreasQMic.txt
+41.53      58.47        542       1356 		Anna noisy dator.txt
+43.52      56.48        568       1344 		AnnaQMic.txt
+27.51      72.49        359       1340 		AnneQMic.txt
+41.23      58.77        538       1450 		Daniel Enstrøm.txt
+59.16      40.84        772       1314 		David noisy dator.txt
+36.70      63.30        479       1307 		Emelie Noisy dator.txt
+36.48      63.52        476       1324 		EmilieQMic.txt
+49.35      50.65        644       1365 		Frasen noisy dator.txt
+49.96      50.04        652       1350 		Gustav noisy dator.txt
+45.13      54.87        589       1317 		Marcus noisy datory.txt
+55.02      44.98        718       1376 		MattiasQMic.txt
+64.06      35.94        836       1271 		My recording 22.txt
+44.44      55.56        580       1336 		My recording 24.txt
+50.19      49.81        655       1271 		My recording 26.txt
+57.47      42.53        750       1376 		My recording 28.txt
+36.55      63.45        477       1323 		My recording 30.txt
+29.81      70.19        389       1329 		My recording 32.txt
+46.90      53.10        612       1367 		My recording 35.txt
+51.57      48.43        673       1347 		My recording 37.txt
+51.42      48.58        671       1398 		NicolasQMic.txt
+59.23      40.77        773       1319 		Niklas noisy dator.txt
+56.09      43.91        732       1316 		Philip noisy dator.txt
+61.69      38.31        805       1251 		PhilipQMic.txt
+42.99      57.01        561       1350 		Stefan noisy dator.txt
+46.90      53.10        612       1352 		StefanQMic.txt
+54.94      45.06        717       1263 		Søren noisy dator.txt

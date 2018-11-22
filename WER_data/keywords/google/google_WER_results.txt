@@ -1,0 +1,3 @@
+Results for: WER_data\keywords\google. #words in solution: 143
+WER        ACCURACY     ERRORS     #Words        FILENAME
+28.06      71.94         39        143 		Svein keyword PC mic google (old).txt

@@ -1,0 +1,4 @@
+Results for: Finland_voxo_speechmatics_ekstrafiler/. #words in solution: 1123
+WER        ACCURACY     ERRORS     #Words        FILENAME
+24.39      75.61        268       1085 		18 Oct 2018 at 09_51_27 Anna metsaranta noisy telefon.txt
+29.21      70.79        321       1123 		18 Oct 2018 at 10_17_06 noora quiet room telefon.txt

@@ -1,0 +1,7 @@
+Results for: Danmark Microsoft_samlemappe. #words in solution: 1316
+WER        ACCURACY     ERRORS     #Words        FILENAME
+41.58      58.42        536       1339 		Danmark_EsbenQJabra.txt
+55.31      44.69        713       1577 		Danmark_EsbenQMic.txt
+78.98      21.02       1018       1042 		Danmark_LindaNJabra.txt
+43.45      56.55        560       1337 		Danmark_LindaQMic.txt
+36.07      63.93        465       1316 		Danmark_My recording 77.txt

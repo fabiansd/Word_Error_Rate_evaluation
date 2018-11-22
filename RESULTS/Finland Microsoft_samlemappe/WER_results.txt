@@ -1,0 +1,6 @@
+Results for: Finland Microsoft_samlemappe. #words in solution: 1203
+WER        ACCURACY     ERRORS     #Words        FILENAME
+80.71      19.29        887        640 		Finland_18 Oct 2018 at 14.26.36_Panu.txt
+40.58      59.42        446       1188 		Finland_Recording 51.txt
+49.68      50.32        546       1150 		Finland_SabinaQMic.txt
+39.85      60.15        438       1203 		Finland_VilleSQMic.txt

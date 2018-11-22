@@ -1,0 +1,7 @@
+Results for: Sverige Microsoft_samlemappe. #words in solution: 1288
+WER        ACCURACY     ERRORS     #Words        FILENAME
+56.55      43.45        738       1328 		Sverige_17 Oct 2018 at 13_33_34 Stefan Lorentzon.txt
+46.21      53.79        603       1285 		Sverige_Emilie Noisy dator.txt
+50.58      49.42        660       1282 		Sverige_Emilie phone noisy.txt
+42.84      57.16        559       1240 		Sverige_EmilieQMic.txt
+42.60      57.40        556       1288 		Sverige_My recordings 30.txt

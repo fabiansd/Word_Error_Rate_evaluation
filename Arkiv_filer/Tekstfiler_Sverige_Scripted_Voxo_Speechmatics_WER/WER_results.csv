@@ -1,0 +1,53 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,27.816,72.184,363.0,1287,17 Oct 2018 at 11_16_15 Anna noisy telefon.txt
+1,20.23,79.77,264.0,1325,17 Oct 2018 at 12_32_33 Emelie Andersson noisy telefon.txt
+2,36.015,63.985,470.0,1243,17 Oct 2018 at 13_08_25 David Gunnarsson noisy telefon.txt
+3,24.291,75.709,317.0,1274,17 Oct 2018 at 13_33_34 Stefan Lorentzon.txt
+4,43.831,56.169,572.0,1225,17 Oct 2018 at 14_08_41 Niklas Hansson noisy dator.txt
+5,24.904,75.096,325.0,1288,17 Oct 2018 at 15_02_00 Marcus noisy telefon.txt
+6,28.812,71.188,376.0,1277,17 Oct 2018 at 15_42_15 Gustav noisy telefon.txt
+7,28.736,71.264,375.0,1237,AndreasQJabra.txt
+8,26.82,73.18,350.0,1254,AndreasQMic.txt
+9,26.513,73.487,346.0,1253,Anna noisy dator.txt
+10,38.621,61.379,504.0,1181,AnnaQJabra.txt
+11,31.877,68.123,416.0,1215,AnnaQMic.txt
+12,23.372,76.628,305.0,1269,Anne sofie noisy dator.txt
+13,26.743,73.257,349.0,1242,Anne Sofie Phone noisy.txt
+14,20.46,79.53999999999999,267.0,1305,AnneQMic.txt
+15,28.199,71.801,368.0,1351,Daniel Enstrøm.txt
+16,29.349,70.651,383.0,1356,Daniel Enstrøm_ny.txt
+17,50.881,49.119,664.0,1105,Daniel quiet phone.txt
+18,54.176,45.824,707.0,1044,Daniel tyst dator.txt
+19,36.475,63.525,476.0,1226,David noisy dator.txt
+20,43.065,56.935,562.0,1250,David quiet dator.txt
+21,20.23,79.77,264.0,1309,Emelie Noisy dator.txt
+22,19.923,80.077,260.0,1299,EmilieQMic.txt
+23,29.425,70.575,384.0,1270,Frasen noisy dator.txt
+24,29.425,70.575,384.0,1284,Gustav noisy dator.txt
+25,32.95,67.05,430.0,1412,Helena noisy dator.txt
+26,36.858,63.142,481.0,1375,Helena noisy phone.txt
+27,27.663,72.337,361.0,1318,Isabelle noisy dator.txt
+28,25.9,74.1,338.0,1292,Isabelle noisy phone.txt
+29,24.291,75.709,317.0,1257,isabelle quiet dator.txt
+30,24.598,75.402,321.0,1269,Isabelle quiet phone.txt
+31,23.908,76.092,312.0,1284,Marcus noisy datory.txt
+32,40.69,59.31,531.0,1287,MattiasQJabra.txt
+33,39.387,60.613,514.0,1314,MattiasQMic.txt
+34,35.862,64.138,468.0,1141,Mia noisy dator.txt
+35,40.766,59.234,532.0,1090,Mia noisy phone.txt
+36,37.701,62.299,492.0,1181,My recording 22.txt
+37,30.421,69.57900000000001,397.0,1237,My recording 24.txt
+38,25.287,74.713,330.0,1281,My recording 26.txt
+39,39.617,60.383,517.0,1327,My recording 28.txt
+40,19.234,80.76599999999999,251.0,1311,My recording 30.txt
+41,24.444,75.556,319.0,1280,My recording 32.txt
+42,21.839,78.161,285.0,1277,My recording 35.txt
+43,30.575,69.425,399.0,1256,My recording 37.txt
+44,28.123,71.877,367.0,1264,NicolasQMic.txt
+45,40.307,59.693,526.0,1224,Niklas noisy dator.txt
+46,33.027,66.973,431.0,1197,Philip noisy dator.txt
+47,52.031,47.969,679.0,986,PhilipQJabra.txt
+48,38.697,61.303,505.0,1182,PhilipQMic.txt
+49,24.291,75.709,317.0,1258,StefanQMic.txt
+50,30.651,69.349,400.0,1254,Søren noisy dator.txt
+51,30.881,69.119,403.0,1252,søren quiet.txt

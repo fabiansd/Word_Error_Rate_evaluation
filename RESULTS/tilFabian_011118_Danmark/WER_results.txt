@@ -1,0 +1,7 @@
+Results for: tilFabian_011118_Danmark/. #words in solution: 1317
+WER        ACCURACY     ERRORS     #Words        FILENAME
+46.78      53.22        603       1329 		Nuance_17 Oct 2018 at 13_58_24 Andreas kiar noisy dator.txt
+39.95      60.05        515       1345 		Nuance_19 Oct 2018 at 16.05.21.txt
+36.46      63.54        470       1347 		Nuance_My recording 60.txt
+32.04      67.96        413       1333 		Nuance_My recording 61.txt
+37.94      62.06        489       1317 		Speechmatics_17 Oct 2018 at 13_58_24 Andreas kiar noisy dator.txt

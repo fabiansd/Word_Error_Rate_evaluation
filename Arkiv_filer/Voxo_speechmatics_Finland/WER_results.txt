@@ -1,0 +1,49 @@
+Results for: Voxo_speechmatics_Finland/. #words in solution: 1113
+WER        ACCURACY     ERRORS     #Words        FILENAME
+45.86      54.14        504        885 		18 Oct 2018 at 13_00_04_Mikko_PHONE.txt
+50.50      49.50        555        809 		18 Oct 2018 at 13_16_32_Mikael_PHONE.txt
+60.15      39.85        661        662 		18 Oct 2018 at 13_34_21_Sabina_PHONE.txt
+79.34      20.66        872        358 		18 Oct 2018 at 14_12_14_Satu_PHONE.txt
+60.87      39.13        669        637 		18 Oct 2018 at 14_26_36_Panu_PHONE.txt
+44.95      55.05        494        876 		18 Oct 2018 at 14_39_17_Salla_PHONE.txt
+79.34      20.66        872        385 		18 Oct 2018 at 15_31_44_Magnus_PHONE.txt
+32.21      67.79        354       1038 		19 Oct 2018 at 15_35_43.txt
+33.21      66.79        365       1064 		AnjalaQJabra.txt
+29.30      70.70        322       1097 		AnjalaQMic.txt
+45.31      54.69        498        755 		Anna Metsæranta Noisy finnish.txt
+26.30      73.70        289       1081 		Annika Laakkonen quiet room computer.txt
+31.85      68.15        350       1019 		IdaPCMic.txt
+39.03      60.97        429       1015 		Magnus.txt
+43.86      56.14        482       1015 		MagnusKondratjeff_MIC.txt
+40.95      59.05        450       1003 		MagnusQJabra.txt
+32.85      67.15        361       1062 		MikaelMäättä_MIC.txt
+36.85      63.15        405       1031 		MikkoQJabra.txt
+31.57      68.43        347       1095 		MikkoQMic.txt
+34.49      65.51        379       1071 		MikkoRanta_MIC.txt
+28.30      71.70        311       1083 		My recording 39.txt
+32.03      67.97        352       1086 		My recording 41.txt
+28.30      71.70        311       1073 		My recording 43.txt
+32.67      67.33        359       1044 		My recording 47.txt
+28.12      71.88        309       1101 		My recording 49.txt
+23.57      76.43        259       1097 		My recording 51.txt
+42.40      57.60        466       1018 		My recording 53.txt
+29.30      70.70        322       1070 		My recording 55.txt
+33.58      66.42        369       1042 		My recording 79.txt
+29.66      70.34        326       1107 		Noora quiet room dator.txt
+30.30      69.70        333       1112 		Noora quiet room.txt
+31.39      68.61        345       1073 		PanuParri_MIC.txt
+31.76      68.24        349       1036 		PanuQJabra.txt
+27.02      72.97        297       1083 		PanuQMic.txt
+26.11      73.89        287       1096 		SabinaMurtonen_MIC.txt
+32.85      67.15        361       1019 		SabinaQJabra.txt
+25.84      74.16        284       1104 		SabinaQMic.txt
+31.48      68.52        346       1080 		SallaQJabra.txt
+26.21      73.79        288       1118 		SallaQMic.txt
+28.12      71.88        309       1118 		SallaRipatti_MIC.txt
+42.22      57.78        464        938 		SandraQJabra.txt
+33.67      66.33        370       1040 		SandraQMic.txt
+28.66      71.34        315       1108 		Satu Anjala_MIC.txt
+29.75      70.25        327       1062 		VilleQJabra.txt
+28.75      71.25        316       1095 		VilleQMic.txt
+27.75      72.25        305       1072 		VilleSQJabra.txt
+21.75      78.25        239       1113 		VilleSQMic.txt

@@ -1,0 +1,45 @@
+Results for: Tekstfiler_Danmark_Scripted_Nuance/. #words in solution: 1311
+WER        ACCURACY     ERRORS     #Words        FILENAME
+47.17      52.83        608       1324 		Andreas kiar DK noisy dator.txt
+44.14      55.86        569       1336 		AndreasQMic.txt
+33.13      66.87        427       1348 		AshtiQJabra.txt
+32.20      67.80        415       1370 		AshtiQMic.txt
+27.54      72.46        355       1370 		BrianQJabra.txt
+29.87      70.13        385       1391 		BrianQMic.txt
+42.28      57.72        545       1312 		ClausNJabra.txt
+38.56      61.44        497       1350 		ClausNMic.txt
+42.67      57.33        550       1362 		ClausQJabra.txt
+38.95      61.05        502       1366 		ClausQMic.txt
+25.21      74.79        325       1343 		EsbenQMic.txt
+27.70      72.30        357       1334 		EspenQJabra.txt
+36.62      63.38        472       1370 		FrankSilentMic.txt
+52.60      47.40        678       1278 		HenrikNoiseMic.txt
+45.07      54.93        581       1280 		HenrikQJabra.txt
+43.91      56.09        566       1288 		HenrikQMic.txt
+36.00      64.00        464       1400 		JesperNoiseMic.txt
+32.66      67.34        421       1435 		JesperQJabra.txt
+31.11      68.89        401       1431 		JesperQMic.txt
+64.55      35.45        832       1106 		LindaNJabra.txt
+32.51      67.49        419       1359 		LindaNMic.txt
+39.02      60.98        503       1326 		LindaQJabra.txt
+32.35      67.65        417       1338 		LindaQMic.txt
+41.43      58.57        534       1273 		MortenNoiseMic.txt
+41.81      58.19        539       1270 		MortenQJabra.txt
+38.56      61.44        497       1292 		MortenQMic.txt
+44.76      55.24        577       1333 		My recording 33.txt
+40.19      59.81        518       1356 		My recording 57.txt
+42.13      57.87        543       1310 		My recording 59.txt
+32.89      67.11        424       1435 		My recording 63.txt
+41.51      58.49        535       1288 		My recording 65.txt
+39.33      60.67        507       1311 		My recording 67.txt
+45.31      54.69        584       1307 		My recording 68.txt
+39.57      60.43        510       1443 		My recording 70.txt
+32.20      67.80        415       1366 		My recording 72.txt
+29.02      70.98        374       1375 		My recording 75.txt
+25.29      74.71        326       1339 		My recording 77.txt
+38.09      61.91        491       1409 		PelleNoiseMic.txt
+40.57      59.43        523       1434 		PelleQJabra.txt
+38.95      61.05        502       1437 		PelleQMic.txt
+33.83      66.17        436       1341 		RikkeNoiseMic.txt
+44.06      55.94        568       1265 		RikkeQJabra.txt
+38.01      61.99        490       1311 		RikkeQMic.txt

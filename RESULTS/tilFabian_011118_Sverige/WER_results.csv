@@ -1,0 +1,16 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,61.533,38.467,803.0,1170,17 Oct 2018 at 14_08_41 Niklas Hansson noisy dator.txt
+1,46.207,53.793,603.0,1305,17 Oct 2018 at 15_02_00 Marcus noisy telefon.txt
+2,50.038,49.962,653.0,1341,17 Oct 2018 at 15_42_15 Gustav noisy telefon.txt
+3,52.49,47.51,685.0,1207,AndreasQJabra.txt
+4,48.659,51.341,635.0,1249,AnnaQJabra.txt
+5,29.885,70.115,390.0,1306,Anne sofie noisy dator.txt
+6,46.13,53.87,602.0,1087,Anne Sofie Phone noisy.txt
+7,61.609,38.391,804.0,1168,Daniel quiet phone.txt
+8,67.586,32.414,882.0,1092,Daniel tyst dator.txt
+9,63.602,36.398,830.0,1302,David quiet dator.txt
+10,47.433,52.567,619.0,1462,Helena noisy dator.txt
+11,56.092,43.908,732.0,1248,Helena noisy phone.txt
+12,47.28,52.72,617.0,1322,Isabelle noisy dator.txt
+13,57.471,42.529,750.0,1336,MattiasQJabra.txt
+14,64.598,35.402,843.0,1149,PhilipQJabra.txt

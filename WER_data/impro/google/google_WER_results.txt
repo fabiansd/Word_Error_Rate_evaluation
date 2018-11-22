@@ -1,0 +1,3 @@
+Results for: WER_data\impro\google. #words in solution: 171
+WER        ACCURACY     ERRORS     #Words        FILENAME
+17.82      82.18         31        171 		Svein impro PC mic google (old).txt

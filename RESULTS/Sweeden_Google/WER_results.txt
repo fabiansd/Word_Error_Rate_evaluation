@@ -1,0 +1,57 @@
+Results for: Sweeden_Google. #words in solution: 1269
+WER        ACCURACY     ERRORS     #Words        FILENAME
+26.82      73.18        350       1324 		17 Oct 2018 at 11_16_15 Anna noisy telefon.wav.txt
+34.41      65.59        449       1506 		17 Oct 2018 at 11_43_42 daniel Enstrom noisy telefon.wav.txt
+20.46      79.54        267       1287 		17 Oct 2018 at 12_32_33 Emelie Andersson noisy telefon.wav.txt
+36.78      63.22        480       1271 		17 Oct 2018 at 13_08_25 David Gunnarsson noisy telefon.wav.txt
+22.07      77.93        288       1273 		17 Oct 2018 at 13_33_34 Stefan Lorentzon.wav.txt
+91.88       8.12       1199        824 		17 Oct 2018 at 13_58_24 Andreas kiaar noisy dator.wav.txt
+49.42      50.58        645       1295 		17 Oct 2018 at 14_08_41 Niklas Hansson noisy dator.wav.txt
+25.82      74.18        337       1276 		17 Oct 2018 at 15_02_00 Marcus noisy telefon.wav.txt
+30.80      69.19        402       1290 		17 Oct 2018 at 15_42_15 Gustav noisy telefon.wav.txt
+32.87      67.13        429       1262 		AndreasQJabra.wav.txt
+31.80      68.20        415       1255 		AndreasQMic.wav.txt
+25.36      74.64        331       1330 		Anna noisy dator.wav.txt
+32.11      67.89        419       1314 		AnnaQJabra.wav.txt
+24.37      75.63        318       1322 		AnnaQMic.wav.txt
+22.07      77.93        288       1280 		Anne sofie noisy dator.wav.txt
+23.83      76.17        311       1302 		Anne Sofie Phone noisy.wav.txt
+21.53      78.47        281       1318 		AnneQMic.wav.txt
+26.44      73.56        345       1390 		Daniel Enstrøm.wav.txt
+48.51      51.49        633       1172 		Daniel quiet phone.wav.txt
+48.66      51.34        635       1164 		Daniel tyst dator.wav.txt
+32.95      67.05        430       1271 		David noisy dator.wav.txt
+40.61      59.39        530       1296 		David quiet dator.wav.txt
+45.44      54.56        593       1256 		David quiet phone.wav.txt
+21.30      78.70        278       1290 		Emelie Noisy dator.wav.txt
+30.73      69.27        401       1304 		Frasen noisy dator.wav.txt
+28.05      71.95        366       1293 		Gustav noisy dator.wav.txt
+36.48      63.52        476       1448 		Helena noisy dator.wav.txt
+39.23      60.77        512       1433 		Helena noisy phone.wav.txt
+27.74      72.26        362       1334 		Isabelle noisy dator.wav.txt
+24.06      75.94        314       1269 		Isabelle noisy phone.wav.txt
+24.29      75.71        317       1267 		isabelle quiet dator.wav.txt
+25.52      74.48        333       1250 		Isabelle quiet phone.wav.txt
+25.36      74.64        331       1291 		Marcus noisy datory.wav.txt
+41.99      58.01        548       1315 		MattiasQJabra.wav.txt
+42.68      57.32        557       1344 		MattiasQMic.wav.txt
+34.10      65.90        445       1243 		Mia noisy dator.wav.txt
+36.09      63.91        471       1221 		Mia noisy phone.wav.txt
+42.07      57.93        549       1280 		My recording 22.wav.txt
+27.97      72.03        365       1319 		My recording 24.wav.txt
+32.26      67.74        421       1255 		My recording 26.wav.txt
+41.46      58.54        541       1329 		My recording 28.wav.txt
+21.46      78.54        280       1290 		My recording 30.wav.txt
+20.38      79.62        266       1306 		My recording 32.wav.txt
+24.75      75.25        323       1281 		My recording 35.wav.txt
+33.10      66.90        432       1312 		My recording 37.wav.txt
+32.95      67.05        430       1330 		NicolasQMic.wav.txt
+44.44      55.56        580       1306 		Niklas noisy dator.wav.txt
+35.56      64.44        464       1287 		Philip noisy dator.wav.txt
+50.27      49.73        656       1235 		PhilipQJabra.wav.txt
+40.31      59.69        526       1277 		PhilipQMic.wav.txt
+23.30      76.70        304       1293 		Stefan noisy dator.wav.txt
+24.83      75.17        324       1282 		StefanQMic.wav.txt
+35.94      64.06        469       1271 		Søren noisy dator.wav.txt
+33.56      66.44        438       1283 		søren quiet.wav.txt
+30.80      69.19        402       1269 		Søren tyst phone.wav.txt

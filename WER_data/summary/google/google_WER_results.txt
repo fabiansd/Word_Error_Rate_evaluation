@@ -1,0 +1,3 @@
+Results for: WER_data\summary\google. #words in solution: 84
+WER        ACCURACY     ERRORS     #Words        FILENAME
+29.41      70.59         25         84 		Svein summary PC mic google (old).txt

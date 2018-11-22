@@ -1,0 +1,4 @@
+Results for: Sweedish_microsoft_indication. #words in solution: 1240
+WER        ACCURACY     ERRORS     #Words        FILENAME
+42.60      57.40        556       1288 		My recordings 30.txt
+42.84      57.16        559       1240 		Transcript Emilie.txt

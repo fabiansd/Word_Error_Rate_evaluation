@@ -1,0 +1,23 @@
+How to run:
+
+python werForMultipleTxt.py case/vendor
+
+example: python werForMultipleTxt.py conversation/google
+
+
+All txt files must be in UTF-8 format, otherwise the script will crash due to nordic letters. 
+If a txt file is not in UTF-8, simply convert the txt file with notepad++. 
+Go to Encoding -> Convert to UTF-8, then save.
+
+
+IMPORTANT
+
+To create new tests, follow this folder structure:
+
+CASE-folder
+	VENDOR-folder
+		HYPOTHESES-folder
+			Hypothesis to test saved as txt
+		SOLUTION-folder
+			A solution to the hypothesis
+

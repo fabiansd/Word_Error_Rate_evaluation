@@ -1,0 +1,4 @@
+Results for: Danmark_samlemappe_enkeltfiler. #words in solution: 1314
+WER        ACCURACY     ERRORS     #Words        FILENAME
+51.12      48.88        659       1163 		17 Oct 2018 at 13_58_24 Andreas kiar noisy dator_voxoGoogle.txt
+37.47      62.53        483       1314 		17 Oct 2018 at 13_58_24 Andreas kiar noisy dator_voxoSpeechmatics.txt

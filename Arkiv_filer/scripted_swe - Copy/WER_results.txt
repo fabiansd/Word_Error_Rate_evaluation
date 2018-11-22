@@ -1,0 +1,2 @@
+Results for: scripted_swe - Copy/. #words in solution: 1506
+WER        ACCURACY     ERRORS     #Words        FILENAME

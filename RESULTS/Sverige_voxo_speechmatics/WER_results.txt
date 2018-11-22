@@ -1,0 +1,7 @@
+Results for: Sverige_voxo_speechmatics/. #words in solution: 1260
+WER        ACCURACY     ERRORS     #Words        FILENAME
+34.94      65.06        456       1460 		7 Oct 2018 at 11_43_42 daniel Enstrom noisy telefon.txt
+26.74      73.26        349       1242 		Anne Sofie Phone noisy.txt
+44.83      55.17        585       1271 		David quiet phone.txt
+31.57      68.43        412       1274 		Soren tyst phone.txt
+24.98      75.02        326       1260 		Stefan noisy dator.txt

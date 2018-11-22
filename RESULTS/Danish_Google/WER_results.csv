@@ -1,0 +1,53 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,50.582,49.418,652.0,1158,17 Oct 2018 at 13_58_24 Andreas kiaar noisy dator.wav.txt
+1,46.47,53.53,599.0,1107,19 Oct 2018 at 12.07.23.wav.txt
+2,38.092,61.908,491.0,1245,19 Oct 2018 at 12.25.43.wav.txt
+3,36.618,63.382,472.0,1243,19 Oct 2018 at 12.38.21.wav.txt
+4,42.591,57.409,549.0,1244,19 Oct 2018 at 13.16.42.wav.txt
+5,52.676,47.324,679.0,1139,19 Oct 2018 at 13.37.14.wav.txt
+6,36.23,63.77,467.0,1304,19 Oct 2018 at 16.05.21.wav.txt
+7,45.927,54.073,592.0,1224,Andreas kiar DK noisy dator.wav.txt
+8,44.453,55.547,573.0,1255,AndreasQMic.wav.txt
+9,31.963,68.037,412.0,1226,AshtiQJabra.wav.txt
+10,27.308,72.69200000000001,352.0,1295,AshtiQMic.wav.txt
+11,25.989,74.011,335.0,1310,BrianQJabra.wav.txt
+12,26.222,73.77799999999999,338.0,1312,BrianQMic.wav.txt
+13,37.859,62.141,488.0,1248,ClausNJabra.wav.txt
+14,34.29,65.71000000000001,442.0,1281,ClausNMic.wav.txt
+15,35.609,64.39099999999999,459.0,1253,ClausQJabra.wav.txt
+16,33.359,66.64099999999999,430.0,1300,ClausQMic.wav.txt
+17,22.653,77.34700000000001,292.0,1294,EsbenQMic.wav.txt
+18,24.748,75.252,319.0,1291,EspenQJabra.wav.txt
+19,35.764,64.23599999999999,461.0,1301,FrankSilentMic.wav.txt
+20,48.565,51.435,626.0,1231,HenrikNoiseMic.wav.txt
+21,45.384,54.616,585.0,1222,HenrikQJabra.wav.txt
+22,43.755,56.245,564.0,1252,HenrikQMic.wav.txt
+23,34.988,65.012,451.0,1285,JesperNoiseMic.wav.txt
+24,30.644,69.356,395.0,1333,JesperQJabra.wav.txt
+25,28.394,71.606,366.0,1363,JesperQMic.wav.txt
+26,61.521,38.479,793.0,833,LindaNJabra.wav.txt
+27,29.17,70.83,376.0,1292,LindaNMic.wav.txt
+28,44.531,55.469,574.0,1125,LindaQJabra.wav.txt
+29,35.144,64.856,453.0,1238,LindaQMic.wav.txt
+30,41.195,58.805,531.0,1177,MortenNoiseMic.wav.txt
+31,46.625,53.375,601.0,1103,MortenQJabra.wav.txt
+32,40.962,59.038,528.0,1176,MortenQMic.wav.txt
+33,48.798,51.202,629.0,1177,My recording 33.wav.txt
+34,35.144,64.856,453.0,1269,My recording 57.wav.txt
+35,36.307,63.693,468.0,1234,My recording 59.wav.txt
+36,31.187,68.813,402.0,1269,My recording 60.wav.txt
+37,37.548,62.452,484.0,1188,My recording 61.wav.txt
+38,29.092,70.908,375.0,1350,My recording 63.wav.txt
+39,44.453,55.547,573.0,1118,My recording 65.wav.txt
+40,40.729,59.271,525.0,1194,My recording 67.wav.txt
+41,44.298,55.702,571.0,1235,My recording 68.wav.txt
+42,35.919,64.081,463.0,1296,My recording 70.wav.txt
+43,28.782,71.218,371.0,1279,My recording 72.wav.txt
+44,25.058,74.94200000000001,323.0,1310,My recording 75.wav.txt
+45,22.731,77.269,293.0,1279,My recording 77.wav.txt
+46,39.255,60.745,506.0,1268,PelleNoiseMic.wav.txt
+47,39.953,60.047,515.0,1270,PelleQJabra.wav.txt
+48,36.928,63.072,476.0,1307,PelleQMic.wav.txt
+49,32.894,67.106,424.0,1256,RikkeNoiseMic.wav.txt
+50,46.005,53.995,593.0,1110,RikkeQJabra.wav.txt
+51,37.005,62.995,477.0,1234,RikkeQMic.wav.txt

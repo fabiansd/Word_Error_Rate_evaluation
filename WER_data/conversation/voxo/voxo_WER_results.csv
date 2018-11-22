@@ -1,0 +1,11 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,43.091,56.909,552.0,1210,Jan Magne conv NC mic voxo.txt
+1,55.582,44.418,712.0,1048,Jan Magne conv NC phone voxo.txt
+2,40.515,59.485,519.0,1270,Jan Magne conv PC mic voxo.txt
+3,57.299,42.701,734.0,926,Jan Magne conv PC phone voxo.txt
+4,32.24,67.75999999999999,413.0,1242,Svein conv NC jabra voxo.txt
+5,28.728,71.27199999999999,368.0,1230,Svein conv NC mic voxo.txt
+6,34.973,65.027,448.0,1200,Svein conv NC phone voxo.txt
+7,25.917,74.083,332.0,1278,Svein conv PC jabra voxo.txt
+8,24.512,75.488,314.0,1290,Svein conv PC mic voxo.txt
+9,27.244,72.756,349.0,1289,Svein conv PC phone voxo.txt

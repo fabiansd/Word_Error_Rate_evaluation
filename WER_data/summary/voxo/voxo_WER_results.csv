@@ -1,0 +1,11 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,43.529,56.471,37.0,85,Jan Magne summary NC mic voxo.txt
+1,51.765,48.235,44.0,81,Jan Magne summary NC phone voxo.txt
+2,44.706,55.294,38.0,91,Jan Magne summary PC mic voxo.txt
+3,47.059,52.941,40.0,94,Jan Magne summary PC phone voxo.txt
+4,27.059,72.941,23.0,83,Svein summary NC jabra voxo.txt
+5,29.412,70.588,25.0,84,Svein summary NC mic voxo.txt
+6,36.471,63.529,31.0,78,Svein summary NC phone voxo.txt
+7,18.824,81.176,16.0,84,Svein summary PC jabra voxo.txt
+8,27.059,72.941,23.0,82,Svein summary PC mic voxo.txt
+9,18.824,81.176,16.0,84,Svein summary PC phone voxo.txt

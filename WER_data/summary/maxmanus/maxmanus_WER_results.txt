@@ -1,0 +1,3 @@
+Results for: WER_data\summary\maxmanus. #words in solution: 83
+WER        ACCURACY     ERRORS     #Words        FILENAME
+17.65      82.35         15         83 		svein summary PC mic max manus.txt

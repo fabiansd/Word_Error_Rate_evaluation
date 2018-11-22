@@ -1,0 +1,34 @@
+Results for: Tekstfiler_Danmark_Scripted_Google/. #words in solution: 1241
+WER        ACCURACY     ERRORS     #Words        FILENAME
+46.47      53.53        599       1224 		Andreas kiar DK noisy dator.txt
+45.23      54.77        583       1253 		AndreasQMic.txt
+33.20      66.80        428       1236 		AshtiQJabra.txt
+28.24      71.76        364       1298 		AshtiQMic.txt
+28.01      71.99        361       1310 		BrianQJabra.txt
+27.77      72.23        358       1316 		BrianQMic.txt
+39.57      60.43        510       1255 		ClausNJabra.txt
+35.38      64.62        456       1286 		ClausNMic.txt
+37.24      62.76        480       1260 		ClausQJabra.txt
+34.83      65.17        449       1316 		ClausQMic.txt
+23.89      76.11        308       1291 		EsbenQMic.txt
+25.91      74.09        334       1291 		EspenQJabra.txt
+36.62      63.38        472       1302 		FrankSilentMic.txt
+49.19      50.81        634       1233 		HenrikNoiseMic.txt
+45.93      54.07        592       1221 		HenrikQJabra.txt
+44.84      55.16        578       1255 		HenrikQMic.txt
+36.00      64.00        464       1291 		JesperNoiseMic.txt
+31.81      68.19        410       1335 		JesperQJabra.txt
+29.32      70.67        378       1363 		JesperQMic.txt
+62.68      37.32        808        835 		LindaNJabra.txt
+30.33      69.67        391       1295 		LindaNMic.txt
+45.69      54.31        589       1127 		LindaQJabra.txt
+36.77      63.23        474       1243 		LindaQMic.txt
+41.97      58.03        541       1179 		MortenNoiseMic.txt
+47.56      52.44        613       1104 		MortenQJabra.txt
+42.13      57.87        543       1179 		MortenQMic.txt
+40.65      59.35        524       1267 		PelleNoiseMic.txt
+41.35      58.65        533       1274 		PelleQJabra.txt
+37.86      62.14        488       1312 		PelleQMic.txt
+33.83      66.17        436       1271 		RikkeNoiseMic.txt
+46.86      53.14        604       1110 		RikkeQJabra.txt
+37.86      62.14        488       1241 		RikkeQMic.txt

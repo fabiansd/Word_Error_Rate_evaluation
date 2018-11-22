@@ -1,0 +1,33 @@
+Results for: Tekstfiler_Sverige_Scripted_Speechmatics/. #words in solution: 1240
+WER        ACCURACY     ERRORS     #Words        FILENAME
+87.97      12.03       1148        774 		Andreas kiar DK noisy dator.txt
+28.43      71.57        371       1231 		AndreasQJabra.txt
+26.67      73.33        348       1245 		AndreasQMic.txt
+26.05      73.95        340       1247 		Anna noisy dator.txt
+38.16      61.84        498       1169 		AnnaQJabra.txt
+31.42      68.58        410       1204 		AnnaQMic.txt
+22.99      77.01        300       1256 		Anne sofie noisy dator.txt
+20.38      79.62        266       1294 		AnneQMic.txt
+27.89      72.11        364       1344 		Daniel Enstrøm.txt
+54.18      45.82        707       1036 		Daniel tyst dator.txt
+36.32      63.68        474       1218 		David noisy dator.txt
+42.91      57.09        560       1237 		David quiet dator.txt
+19.77      80.23        258       1301 		Emelie Noisy dator.txt
+29.04      70.96        379       1261 		Frasen noisy dator.txt
+29.43      70.58        384       1272 		Gustav noisy dator.txt
+32.72      67.28        427       1405 		Helena noisy dator.txt
+27.43      72.57        358       1305 		Isabelle noisy dator.txt
+23.83      76.17        311       1248 		isabelle quiet dator.txt
+23.68      76.32        309       1273 		Marcus noisy datory.txt
+40.38      59.62        527       1278 		MattiasQJabra.txt
+38.85      61.15        507       1302 		MattiasQMic.txt
+35.71      64.29        466       1132 		Mia noisy dator.txt
+27.82      72.18        363       1254 		NicolasQMic.txt
+40.08      59.92        523       1214 		Niklas noisy dator.txt
+32.72      67.28        427       1191 		Philip noisy dator.txt
+52.11      47.89        680        980 		PhilipQJabra.txt
+38.62      61.38        504       1173 		PhilipQMic.txt
+24.98      75.02        326       1250 		Stefan noisy dator.txt
+23.98      76.02        313       1247 		StefanQMic.txt
+30.04      69.96        392       1241 		Søren noisy dator.txt
+30.27      69.73        395       1240 		søren quiet.txt

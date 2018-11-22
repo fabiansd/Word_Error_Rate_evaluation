@@ -1,0 +1,16 @@
+
+No nordic letters, Max manus Impro
+
+Name of file: text_transc_MaxM.txt
+#words fasti: 1516 #words hyp: 1512
+
+WER             ACCURACY        ERRORS          FILENAME
+23.48            76.52           356.0           text_transc_MaxM.txt
+
+With nordic letters, Max Manus Impro
+
+Name of file: text_transc_MaxM.txt
+#words fasti: 1516 #words hyp: 1512
+
+WER             ACCURACY        ERRORS          FILENAME
+23.48            76.52           356.0           text_transc_MaxM.txt

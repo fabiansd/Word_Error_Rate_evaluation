@@ -1,0 +1,18 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,42.375,57.625,553.0,1356,17 Oct 2018 at 11_16_15 Anna noisy telefon.txt
+1,46.437,53.563,606.0,1454,17 Oct 2018 at 11_43_42 daniel Enstrom noisy telefon.txt
+2,36.782,63.218,480.0,1299,17 Oct 2018 at 12_32_33 Emelie Andersson noisy telefon.txt
+3,59.847,40.153,781.0,1298,17 Oct 2018 at 13_08_25 David Gunnarsson noisy telefon.txt
+4,45.441,54.559,593.0,1345,17 Oct 2018 at 13_33_34 Stefan Lorentzon.txt
+5,45.977,54.023,600.0,1259,Isabelle noisy phone.txt
+6,44.674,55.326,583.0,1286,isabelle quiet dator.txt
+7,46.054,53.946,601.0,1248,Isabelle quiet phone.txt
+8,55.249,44.751,721.0,1378,MattiasQMic.txt
+9,47.739,52.261,623.0,1209,Mia noisy dator.txt
+10,52.031,47.969,679.0,1119,Mia noisy phone.txt
+11,60.766,39.234,793.0,1245,PhilipQMic.txt
+12,50.651,49.349,661.0,1279,Sooen tyst phone.txt
+13,42.759,57.241,558.0,1342,Stefan noisy dator.txt
+14,47.203,52.797,616.0,1356,StefanQMic.txt
+15,54.559,45.441,712.0,1258,Søren noisy dator.txt
+16,54.483,45.517,711.0,1287,søren quiet.txt

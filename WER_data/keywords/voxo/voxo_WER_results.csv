@@ -1,0 +1,11 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,51.079,48.921,71.0,160,Jan Magne keyword NC mic voxo.txt
+1,58.993,41.007,82.0,134,Jan Magne keyword NC phone voxo.txt
+2,53.237,46.763,74.0,163,Jan Magne keyword PC mic voxo.txt
+3,54.676,45.324,76.0,160,Jan Magne keyword PC phone voxo.txt
+4,43.885,56.115,61.0,156,Svein keyword NC jabra voxo.txt
+5,40.288,59.712,56.0,154,Svein keyword NC mic voxo.txt
+6,48.201,51.799,67.0,154,Svein keyword NC phone voxo.txt
+7,38.849,61.151,54.0,150,Svein keyword PC jabra voxo.txt
+8,43.885,56.115,61.0,151,Svein keyword PC mic voxo.txt
+9,41.007,58.993,57.0,156,Svein keyword PC phone voxo.txt

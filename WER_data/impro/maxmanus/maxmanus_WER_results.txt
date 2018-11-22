@@ -1,0 +1,3 @@
+Results for: WER_data\impro\maxmanus. #words in solution: 378
+WER        ACCURACY     ERRORS     #Words        FILENAME
+23.75      76.25         90        378 		Svein impro PC mic max manus.txt

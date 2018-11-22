@@ -1,0 +1,19 @@
+Results for: Sverige_Nuance/. #words in solution: 1287
+WER        ACCURACY     ERRORS     #Words        FILENAME
+42.38      57.62        553       1356 		17 Oct 2018 at 11_16_15 Anna noisy telefon.txt
+46.44      53.56        606       1454 		17 Oct 2018 at 11_43_42 daniel Enstrom noisy telefon.txt
+36.78      63.22        480       1299 		17 Oct 2018 at 12_32_33 Emelie Andersson noisy telefon.txt
+59.85      40.15        781       1298 		17 Oct 2018 at 13_08_25 David Gunnarsson noisy telefon.txt
+45.44      54.56        593       1345 		17 Oct 2018 at 13_33_34 Stefan Lorentzon.txt
+45.98      54.02        600       1259 		Isabelle noisy phone.txt
+44.67      55.33        583       1286 		isabelle quiet dator.txt
+46.05      53.95        601       1248 		Isabelle quiet phone.txt
+55.25      44.75        721       1378 		MattiasQMic.txt
+47.74      52.26        623       1209 		Mia noisy dator.txt
+52.03      47.97        679       1119 		Mia noisy phone.txt
+60.77      39.23        793       1245 		PhilipQMic.txt
+50.65      49.35        661       1279 		Sooen tyst phone.txt
+42.76      57.24        558       1342 		Stefan noisy dator.txt
+47.20      52.80        616       1356 		StefanQMic.txt
+54.56      45.44        712       1258 		Søren noisy dator.txt
+54.48      45.52        711       1287 		søren quiet.txt

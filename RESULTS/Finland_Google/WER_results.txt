@@ -1,0 +1,52 @@
+Results for: Finland_Google/. #words in solution: 1139
+WER        ACCURACY     ERRORS     #Words        FILENAME
+23.57      76.43        259       1140 		18 Oct 2018 at 09_51_27 Anna metsaranta noisy telefon.wav.txt
+32.03      67.97        352       1177 		18 Oct 2018 at 10_17_06 noora quiet room telefon.wav.txt
+41.86      58.14        460       1136 		18 Oct 2018 at 13.00.04_Mikko.wav.txt
+39.31      60.69        432       1160 		18 Oct 2018 at 13.16.32_Mikael.wav.txt
+33.76      66.24        371       1081 		18 Oct 2018 at 13.34.21_Sabina.wav.txt
+48.59      51.41        534       1077 		18 Oct 2018 at 14.12.14_Satu.wav.txt
+40.76      59.24        448       1110 		18 Oct 2018 at 14.26.36_Panu.wav.txt
+32.39      67.61        356       1134 		18 Oct 2018 at 14.39.17_Salla.wav.txt
+61.78      38.22        679       1003 		18 Oct 2018 at 15.31.44_Magnus.wav.txt
+32.12      67.88        353       1124 		19 Oct 2018 at 15.35.43.wav.txt
+95.91       4.09       1054        398 		19 Oct 2018 at 15.47.48.wav.txt
+34.21      65.79        376       1146 		AnjalaQJabra.wav.txt
+33.67      66.33        370       1138 		AnjalaQMic.wav.txt
+47.41      52.59        521        778 		Anna Metsæranta Noisy finnish.wav.txt
+26.39      73.61        290       1141 		Annika Laakkonen quiet room computer.wav.txt
+31.85      68.15        350       1130 		IdaPCMic.wav.txt
+48.95      51.05        538       1110 		Magnus.wav.txt
+50.77      49.23        558       1079 		MagnusKondratjeff.wav.txt
+49.50      50.50        544       1110 		MagnusQJabra.wav.txt
+36.76      63.24        404       1186 		MikaelMaatta.wav.txt
+38.03      61.97        418       1127 		MikkoQJabra.wav.txt
+34.67      65.33        381       1116 		MikkoQMic.wav.txt
+38.03      61.97        418       1133 		MikkoRanta.wav.txt
+27.12      72.88        298       1142 		My recording 39.wav.txt
+34.49      65.51        379       1125 		My recording 41.wav.txt
+25.66      74.34        282       1124 		My recording 43.wav.txt
+34.94      65.06        384       1163 		My recording 47.wav.txt
+27.75      72.25        305       1171 		My recording 49.wav.txt
+69.61      30.39        765        446 		My recording 51.wav.txt
+49.05      50.95        539       1111 		My recording 53.wav.txt
+31.57      68.43        347       1165 		My recording 55.wav.txt
+32.39      67.61        356       1129 		My recording 79.wav.txt
+31.03      68.97        341       1171 		Noora quiet room dator.wav.txt
+31.03      68.97        341       1172 		Noora quiet room.wav.txt
+36.03      63.97        396       1146 		PanuParri.wav.txt
+31.66      68.34        348       1164 		PanuQJabra.wav.txt
+31.12      68.88        342       1162 		PanuQMic.wav.txt
+25.66      74.34        282       1137 		SabinaMurtonen.wav.txt
+26.30      73.70        289       1140 		SabinaQJabra.wav.txt
+25.11      74.89        276       1135 		SabinaQMic.wav.txt
+30.21      69.79        332       1153 		SallaQJabra.wav.txt
+25.57      74.43        281       1160 		SallaQMic.wav.txt
+27.84      72.16        306       1157 		SallaRipatti.wav.txt
+34.67      65.33        381       1131 		SandraQJabra.wav.txt
+30.75      69.25        338       1124 		SandraQMic.wav.txt
+33.58      66.42        369       1169 		Satu Anjala.wav.txt
+27.93      72.07        307       1141 		VilleQJabra.wav.txt
+26.39      73.61        290       1143 		VilleQMic.wav.txt
+27.02      72.97        297       1137 		VilleSQJabra.wav.txt
+26.75      73.25        294       1139 		VilleSQMic.wav.txt

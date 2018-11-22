@@ -1,0 +1,17 @@
+Results for: tilFabian_011118_Sverige/. #words in solution: 1149
+WER        ACCURACY     ERRORS     #Words        FILENAME
+61.53      38.47        803       1170 		17 Oct 2018 at 14_08_41 Niklas Hansson noisy dator.txt
+46.21      53.79        603       1305 		17 Oct 2018 at 15_02_00 Marcus noisy telefon.txt
+50.04      49.96        653       1341 		17 Oct 2018 at 15_42_15 Gustav noisy telefon.txt
+52.49      47.51        685       1207 		AndreasQJabra.txt
+48.66      51.34        635       1249 		AnnaQJabra.txt
+29.89      70.11        390       1306 		Anne sofie noisy dator.txt
+46.13      53.87        602       1087 		Anne Sofie Phone noisy.txt
+61.61      38.39        804       1168 		Daniel quiet phone.txt
+67.59      32.41        882       1092 		Daniel tyst dator.txt
+63.60      36.40        830       1302 		David quiet dator.txt
+47.43      52.57        619       1462 		Helena noisy dator.txt
+56.09      43.91        732       1248 		Helena noisy phone.txt
+47.28      52.72        617       1322 		Isabelle noisy dator.txt
+57.47      42.53        750       1336 		MattiasQJabra.txt
+64.60      35.40        843       1149 		PhilipQJabra.txt

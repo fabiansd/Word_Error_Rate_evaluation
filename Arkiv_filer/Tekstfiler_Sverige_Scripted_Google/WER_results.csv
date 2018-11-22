@@ -1,0 +1,32 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,90.498,9.501999999999995,1181.0,962,Andreas kiar DK noisy dator.txt
+1,34.1,65.9,445.0,1262,AndreasQJabra.txt
+2,33.103,66.89699999999999,432.0,1268,AndreasQMic.txt
+3,26.36,73.64,344.0,1344,Anna noisy dator.txt
+4,32.72,67.28,427.0,1324,AnnaQJabra.txt
+5,25.287,74.713,330.0,1331,AnnaQMic.txt
+6,22.682,77.318,296.0,1289,Anne sofie noisy dator.txt
+7,22.605,77.395,295.0,1326,AnneQMic.txt
+8,27.433,72.56700000000001,358.0,1405,Daniel Enstrøm.txt
+9,49.655,50.345,648.0,1166,Daniel tyst dator.txt
+10,33.563,66.437,438.0,1277,David noisy dator.txt
+11,41.303,58.697,539.0,1304,David quiet dator.txt
+12,21.916,78.084,286.0,1304,Emelie Noisy dator.txt
+13,31.264,68.736,408.0,1315,Frasen noisy dator.txt
+14,29.655,70.345,387.0,1295,Gustav noisy dator.txt
+15,37.241,62.759,486.0,1460,Helena noisy dator.txt
+16,28.352,71.648,370.0,1346,Isabelle noisy dator.txt
+17,25.364,74.636,331.0,1266,isabelle quiet dator.txt
+18,25.9,74.1,338.0,1297,Marcus noisy datory.txt
+19,42.375,57.625,553.0,1322,MattiasQJabra.txt
+20,43.372,56.628,566.0,1348,MattiasQMic.txt
+21,34.943,65.057,456.0,1252,Mia noisy dator.txt
+22,34.253,65.747,447.0,1338,NicolasQMic.txt
+23,45.594,54.406,595.0,1309,Niklas noisy dator.txt
+24,36.705,63.295,479.0,1289,Philip noisy dator.txt
+25,51.034,48.966,666.0,1235,PhilipQJabra.txt
+26,41.379,58.621,540.0,1279,PhilipQMic.txt
+27,23.602,76.398,308.0,1302,Stefan noisy dator.txt
+28,25.364,74.636,331.0,1291,StefanQMic.txt
+29,36.552,63.448,477.0,1279,Søren noisy dator.txt
+30,34.33,65.67,448.0,1293,søren quiet.txt

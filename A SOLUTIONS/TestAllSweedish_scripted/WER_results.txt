@@ -1,0 +1,3 @@
+Results for: TestAllSweedish_scripted/. #words in solution: 1305
+WER        ACCURACY     ERRORS     #Words        FILENAME
+0.00     100.00          0       1305 		solution.txt

@@ -1,0 +1,44 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,47.168,52.832,608.0,1324,Andreas kiar DK noisy dator.txt
+1,44.143,55.857,569.0,1336,AndreasQMic.txt
+2,33.126,66.874,427.0,1348,AshtiQJabra.txt
+3,32.196,67.804,415.0,1370,AshtiQMic.txt
+4,27.541,72.459,355.0,1370,BrianQJabra.txt
+5,29.868,70.132,385.0,1391,BrianQMic.txt
+6,42.281,57.719,545.0,1312,ClausNJabra.txt
+7,38.557,61.443,497.0,1350,ClausNMic.txt
+8,42.669,57.331,550.0,1362,ClausQJabra.txt
+9,38.945,61.055,502.0,1366,ClausQMic.txt
+10,25.213,74.787,325.0,1343,EsbenQMic.txt
+11,27.696,72.304,357.0,1334,EspenQJabra.txt
+12,36.618,63.382,472.0,1370,FrankSilentMic.txt
+13,52.599,47.401,678.0,1278,HenrikNoiseMic.txt
+14,45.074,54.926,581.0,1280,HenrikQJabra.txt
+15,43.91,56.09,566.0,1288,HenrikQMic.txt
+16,35.997,64.003,464.0,1400,JesperNoiseMic.txt
+17,32.661,67.339,421.0,1435,JesperQJabra.txt
+18,31.109,68.89099999999999,401.0,1431,JesperQMic.txt
+19,64.546,35.45399999999999,832.0,1106,LindaNJabra.txt
+20,32.506,67.494,419.0,1359,LindaNMic.txt
+21,39.022,60.978,503.0,1326,LindaQJabra.txt
+22,32.351,67.649,417.0,1338,LindaQMic.txt
+23,41.427,58.573,534.0,1273,MortenNoiseMic.txt
+24,41.815,58.185,539.0,1270,MortenQJabra.txt
+25,38.557,61.443,497.0,1292,MortenQMic.txt
+26,44.763,55.237,577.0,1333,My recording 33.txt
+27,40.186,59.814,518.0,1356,My recording 57.txt
+28,42.126,57.874,543.0,1310,My recording 59.txt
+29,32.894,67.106,424.0,1435,My recording 63.txt
+30,41.505,58.495,535.0,1288,My recording 65.txt
+31,39.333,60.667,507.0,1311,My recording 67.txt
+32,45.306,54.694,584.0,1307,My recording 68.txt
+33,39.566,60.434,510.0,1443,My recording 70.txt
+34,32.196,67.804,415.0,1366,My recording 72.txt
+35,29.015,70.985,374.0,1375,My recording 75.txt
+36,25.291,74.709,326.0,1339,My recording 77.txt
+37,38.092,61.908,491.0,1409,PelleNoiseMic.txt
+38,40.574,59.426,523.0,1434,PelleQJabra.txt
+39,38.945,61.055,502.0,1437,PelleQMic.txt
+40,33.825,66.175,436.0,1341,RikkeNoiseMic.txt
+41,44.065,55.935,568.0,1265,RikkeQJabra.txt
+42,38.014,61.986,490.0,1311,RikkeQMic.txt

@@ -1,0 +1,6 @@
+,WER,ACCURACY,ERRORS,#words,FILENAME
+0,69.711,30.289,893.0,1064,Jan magne conv PC mic microsoft.txt
+1,63.934,36.066,819.0,1206,Svein conv NC jabra microsoft.txt
+2,61.593,38.407,789.0,1221,Svein conv NC mic microsoft.txt
+3,71.507,28.492999999999995,916.0,1144,Svein conv NC phone microsoft.txt
+4,53.552,46.448,686.0,1273,Svein conv PC mic microsoft.txt
